@@ -1,2 +1,2 @@
-## COMS 4771 Machine-Learning HW
+## Machine-Learning HW
 ####
